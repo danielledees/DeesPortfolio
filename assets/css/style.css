@@ -1,0 +1,74 @@
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 100px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+.pimg1 {
+    background-image: url("../images/ai-blur-codes-577585.jpg");
+    height: 400px;
+    
+}
+
+/* .pimg2 {
+    background-image: url("../images/shadow2.jpeg");
+    height: 400px;
+} */
+
+.pimg1, .pimg2 {
+
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+a {
+
+}
+
+.port-content {
+    margin-inline-start: 0px;
+}
+
+.work {
+    width: 300px;
+    height: 200px;
+    align-self: center;
+}
+
+.pic {
+    height: 400px;
+    width: 400px;
+}
+
+#shadow {
+    height: 400px;
+    width: 100%;
+}
+
+
+
+.footer {
+    text-align: center;
+}
