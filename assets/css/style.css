@@ -17,8 +17,13 @@ p {
     position: fixed;
     width: 100%;
     z-index:1;
-    height: 55px;
     
+    
+}
+
+.bg-light {
+    height: 55px;
+
 }
 
 .logo {
