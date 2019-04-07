@@ -12,13 +12,22 @@ p {
     
 }
 
+.navbar {
+    font-size: 20px;
+    position: fixed;
+    width: 100%;
+    z-index:1;
+    
+}
+
 .logo {
     height: 40px;
-    width: 40px;
+    width: 60px;
 }
 
 .jumbotron {
     text-align: center;
+  
 }
 .pimg1 {
     background-image: url("../images/ai-blur-codes-577585.jpg");
@@ -51,6 +60,7 @@ p {
 
 .port-content {
     margin-inline-start: 0px;
+   
 }
 
 .work {
