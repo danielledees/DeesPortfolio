@@ -95,6 +95,11 @@ p {
     font-size: 30px;
 }
 
+.navbar-collapse {
+    background-color: gray;
+   
+}
+
 
 
 
@@ -102,4 +107,5 @@ p {
   .pimg1 {
       background-attachment: scroll;
   }
+
   }
